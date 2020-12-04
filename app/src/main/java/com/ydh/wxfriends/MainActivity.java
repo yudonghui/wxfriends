@@ -17,6 +17,9 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.ydh.wxfriends.imagewatcher.ImageWatcher;
+import com.ydh.wxfriends.imagewatcher.ImageWatcherHelper;
+
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements ImageWatcher.OnPictureLongPressListener {

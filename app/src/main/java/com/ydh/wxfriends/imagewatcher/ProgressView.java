@@ -1,4 +1,4 @@
-package com.ydh.wxfriends;
+package com.ydh.wxfriends.imagewatcher;
 
 import android.content.Context;
 import android.content.res.Resources;

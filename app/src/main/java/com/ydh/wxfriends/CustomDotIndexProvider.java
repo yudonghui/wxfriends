@@ -8,6 +8,8 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.FrameLayout;
 
+import com.ydh.wxfriends.imagewatcher.ImageWatcher;
+
 import java.util.List;
 
 public class CustomDotIndexProvider implements ImageWatcher.IndexProvider {

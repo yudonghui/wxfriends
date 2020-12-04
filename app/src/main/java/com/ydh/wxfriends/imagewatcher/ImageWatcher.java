@@ -1,4 +1,4 @@
-package com.ydh.wxfriends;
+package com.ydh.wxfriends.imagewatcher;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -32,6 +32,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
+
+import com.ydh.wxfriends.R;
 
 import java.lang.ref.WeakReference;
 import java.util.List;

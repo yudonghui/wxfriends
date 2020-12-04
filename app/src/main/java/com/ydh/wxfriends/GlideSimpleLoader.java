@@ -10,6 +10,7 @@ import androidx.annotation.Nullable;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.transition.Transition;
+import com.ydh.wxfriends.imagewatcher.ImageWatcher;
 
 class GlideSimpleLoader implements ImageWatcher.Loader {
     @Override

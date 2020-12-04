@@ -1,4 +1,4 @@
-package com.ydh.wxfriends;
+package com.ydh.wxfriends.imagewatcher;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -6,6 +6,8 @@ import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+
+import com.ydh.wxfriends.R;
 
 import java.util.List;
 

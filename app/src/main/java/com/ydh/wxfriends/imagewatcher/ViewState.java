@@ -1,8 +1,10 @@
-package com.ydh.wxfriends;
+package com.ydh.wxfriends.imagewatcher;
 
 import android.animation.Animator;
 import android.animation.ValueAnimator;
 import android.view.View;
+
+import com.ydh.wxfriends.R;
 
 /**
  * ViewState包含记录了一个View的瞬时UI状态<br/>
